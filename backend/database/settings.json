@@ -1,0 +1,12 @@
+{
+  "active_provider": "groq",
+  "active_model": "models/gemini-1.5-flash",
+  "api_keys": {
+    "gemini": "",
+    "groq": "",
+    "openrouter": "",
+    "ollama": "http://localhost:11434"
+  },
+  "theme_colors": {},
+  "profile_image": ""
+}
